@@ -108,7 +108,7 @@ The goals of this project were to:
         ----------------------------------------
                             |
                             |
-                 Windows 11 Endpoint
+                   Windows 11 Endpoint
                             |
          ----------------------------------------
          |                  |                   |
