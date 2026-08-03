@@ -88,31 +88,8 @@ The goals of this project were to:
 
 # Lab Architecture
 
+<img width="700" height="788" alt="REDUCED" src="https://github.com/user-attachments/assets/8d80b4a2-205c-4464-b729-658aef93a543" />
 
-                   Microsoft 365 Tenant
-                            |
-                            |
-                 Microsoft Entra ID
-              Identity & Device Management
-                            |
-                            |
-                   Microsoft Intune
-              Cloud Endpoint Management
-                            |
-        ----------------------------------------
-        |                   |                   |
-        |                   |                   |
-     Compliance        Security Policies     Application
-     Policies          Configuration         Deployment
-        |                   |                   |
-        ----------------------------------------
-                            |
-                            |
-                   Windows 11 Endpoint
-                            |
-         ----------------------------------------
-         |                  |                   |
-    Windows Updates   Remote Actions      Device Monitoring
 
 
 
