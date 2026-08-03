@@ -137,7 +137,7 @@ Detailed implementation notes, screenshots, and configuration settings are avail
 
 documentation/Intune-Lab-Technical-Report.md
 
-Repository Structure
+## Repository Structure
 Microsoft-Intune-Device-Management-Lab/
 
     ├── README.md
