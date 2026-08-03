@@ -334,6 +334,10 @@ This demonstrates how administrators can centrally deploy software across an org
 
 📸 **Evidence**
 
+<img width="1919" height="922" alt="application-deployment-status png" src="https://github.com/user-attachments/assets/bf23889b-fb53-4fdf-b561-ca0d2792990f" />
+<img width="1019" height="770" alt="Company Portal App on CL PC" src="https://github.com/user-attachments/assets/30e4dbe5-061d-4719-a4db-a3a4374848d7" />
+
+
       screenshots/
       ├── company-portal-app.png
       ├── application-assignment.png
