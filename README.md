@@ -502,9 +502,9 @@ Reviewed:
 
     screenshots/
     ├── compliance-monitoring.png
-    ├── configuration-profile-status.png
-    ├── application-deployment-status.png
-    └── device-inventory.png
+    └──  configuration-profile-status.png
+     
+    
 
 
 
